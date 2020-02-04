@@ -9,4 +9,4 @@ If you uncomment the CSS between lines 42 and 53, this will:
 - resize the `main` and `nav` widths
 - arrange the `main` and `nav` horizontally beneath the header
 
-pragnesh 
+pragnesh
